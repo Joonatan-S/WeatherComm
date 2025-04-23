@@ -1,4 +1,0 @@
-WeatherComm	KEYWORD1
-begin	KEYWORD2
-sendData	KEYWORD2
-setReceiverMAC	KEYWORD2
